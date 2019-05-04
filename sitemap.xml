@@ -3,16 +3,69 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kdhageman.github.io/author/admin/</loc>
+    <loc>https://kdhageman.github.io/publication_types/2/</loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kdhageman.github.io/</loc>
+    <loc>https://kdhageman.github.io/authors/aiko-pras/</loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kdhageman.github.io/authors/anna-sperotto/</loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kdhageman.github.io/authors/</loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kdhageman.github.io/authors/kaspar-hageman/</loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kdhageman.github.io/</loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kdhageman.github.io/publication_types/</loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kdhageman.github.io/publication/</loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kdhageman.github.io/authors/roland-van-rijswijk-deij/</loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kdhageman.github.io/publication/the_performance_ecc/</loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kdhageman.github.io/author/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kdhageman.github.io/publication_types/3/</loc>
     <priority>0</priority>
   </url>
   
@@ -27,16 +80,16 @@
   </url>
   
   <url>
-    <loc>https://kdhageman.github.io/post/</loc>
+    <loc>https://kdhageman.github.io/publication/haaukins/</loc>
   </url>
   
   <url>
-    <loc>https://kdhageman.github.io/publication_types/</loc>
+    <loc>https://kdhageman.github.io/authors/jens-myrup-pedersen/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kdhageman.github.io/publication/</loc>
+    <loc>https://kdhageman.github.io/post/</loc>
   </url>
   
   <url>
@@ -44,7 +97,17 @@
   </url>
   
   <url>
+    <loc>https://kdhageman.github.io/authors/ren%C3%A9-rydhof-hansen/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kdhageman.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kdhageman.github.io/authors/thomas-kobber-panum/</loc>
     <priority>0</priority>
   </url>
   
