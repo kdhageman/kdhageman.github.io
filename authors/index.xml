@@ -2,84 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Kaspar Hageman</title>
-    <link>https://kdhageman.github.io/authors/</link>
+    <link>https://www.hageman.dk/authors/</link>
     <description>Recent content in Authors on Kaspar Hageman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; {year} Kaspar Hageman </copyright>
     <lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kdhageman.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.hageman.dk/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Aiko Pras</title>
-      <link>https://kdhageman.github.io/authors/aiko-pras/</link>
+      <link>https://www.hageman.dk/authors/aiko-pras/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kdhageman.github.io/authors/aiko-pras/</guid>
+      <guid>https://www.hageman.dk/authors/aiko-pras/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anna Sperotto</title>
-      <link>https://kdhageman.github.io/authors/anna-sperotto/</link>
+      <link>https://www.hageman.dk/authors/anna-sperotto/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kdhageman.github.io/authors/anna-sperotto/</guid>
+      <guid>https://www.hageman.dk/authors/anna-sperotto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kaspar Hageman</title>
-      <link>https://kdhageman.github.io/authors/kaspar-hageman/</link>
+      <link>https://www.hageman.dk/authors/kaspar-hageman/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kdhageman.github.io/authors/kaspar-hageman/</guid>
+      <guid>https://www.hageman.dk/authors/kaspar-hageman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Roland van Rijswijk-Deij</title>
-      <link>https://kdhageman.github.io/authors/roland-van-rijswijk-deij/</link>
+      <link>https://www.hageman.dk/authors/roland-van-rijswijk-deij/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kdhageman.github.io/authors/roland-van-rijswijk-deij/</guid>
+      <guid>https://www.hageman.dk/authors/roland-van-rijswijk-deij/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jens Myrup Pedersen</title>
-      <link>https://kdhageman.github.io/authors/jens-myrup-pedersen/</link>
+      <link>https://www.hageman.dk/authors/jens-myrup-pedersen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kdhageman.github.io/authors/jens-myrup-pedersen/</guid>
+      <guid>https://www.hageman.dk/authors/jens-myrup-pedersen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>René Rydhof Hansen</title>
-      <link>https://kdhageman.github.io/authors/ren%C3%A9-rydhof-hansen/</link>
+      <link>https://www.hageman.dk/authors/ren%C3%A9-rydhof-hansen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kdhageman.github.io/authors/ren%C3%A9-rydhof-hansen/</guid>
+      <guid>https://www.hageman.dk/authors/ren%C3%A9-rydhof-hansen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thomas Kobber Panum</title>
-      <link>https://kdhageman.github.io/authors/thomas-kobber-panum/</link>
+      <link>https://www.hageman.dk/authors/thomas-kobber-panum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kdhageman.github.io/authors/thomas-kobber-panum/</guid>
+      <guid>https://www.hageman.dk/authors/thomas-kobber-panum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>admin</title>
-      <link>https://kdhageman.github.io/authors/admin/</link>
+      <link>https://www.hageman.dk/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kdhageman.github.io/authors/admin/</guid>
+      <guid>https://www.hageman.dk/authors/admin/</guid>
       <description></description>
     </item>
     
