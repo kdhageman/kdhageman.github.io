@@ -1,32 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Kaspar Hageman</title>
-    <link>https://www.hageman.dk/publication/</link>
-    <description>Recent content in Publications on Kaspar Hageman</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Kaspar Hageman </copyright>
-    <lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.hageman.dk/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Publications | Kaspar Hageman</title>
+    <link>https://hageman.dk/publication/</link>
+      <atom:link href="https://hageman.dk/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hageman.dk/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://hageman.dk/publication/</link>
+    </image>
     
     <item>
-      <title>The Performance Impact of Elliptic Curve Cryptography on DNSSEC Validation</title>
-      <link>https://www.hageman.dk/publication/the_performance_ecc/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.hageman.dk/publication/the_performance_ecc/</guid>
+      <title>Understanding the Challenges of Blocking Unnamed Network Traffic</title>
+      <link>https://hageman.dk/publication/unnamed_traffic/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://hageman.dk/publication/unnamed_traffic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Ambiguous Phishing Certificates using Machine Learning</title>
+      <link>https://hageman.dk/publication/ambiguous_phish/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hageman.dk/publication/ambiguous_phish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gollector: Measuring Domain Name Dark Matter from Different Vantage Points</title>
+      <link>https://hageman.dk/publication/gollector/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://hageman.dk/publication/gollector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging the Gap: Adapting a Security Education Platform to a New Audience</title>
+      <link>https://hageman.dk/publication/haaukins_2/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://hageman.dk/publication/haaukins_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can a TLS Certificate be Phishy?</title>
+      <link>https://hageman.dk/publication/phishy_cert/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://hageman.dk/publication/phishy_cert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Adversarial Phishing Detection</title>
+      <link>https://hageman.dk/publication/adversarial_phishing/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://hageman.dk/publication/adversarial_phishing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Haaukins: A Highly Accessible and Automated Virtualization Platform for Security Education</title>
-      <link>https://www.hageman.dk/publication/haaukins/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.hageman.dk/publication/haaukins/</guid>
+      <link>https://hageman.dk/publication/haaukins_1/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://hageman.dk/publication/haaukins_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Performance Impact of Elliptic Curve Cryptography on DNSSEC Validation</title>
+      <link>https://hageman.dk/publication/performance_ecc/</link>
+      <pubDate>Sat, 10 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://hageman.dk/publication/performance_ecc/</guid>
       <description></description>
     </item>
     

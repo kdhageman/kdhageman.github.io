@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Kaspar Hageman</title>
+    <link>https://hageman.dk/publication-type/1/</link>
+      <atom:link href="https://hageman.dk/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hageman.dk/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://hageman.dk/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Understanding the Challenges of Blocking Unnamed Network Traffic</title>
+      <link>https://hageman.dk/publication/unnamed_traffic/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://hageman.dk/publication/unnamed_traffic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Ambiguous Phishing Certificates using Machine Learning</title>
+      <link>https://hageman.dk/publication/ambiguous_phish/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hageman.dk/publication/ambiguous_phish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gollector: Measuring Domain Name Dark Matter from Different Vantage Points</title>
+      <link>https://hageman.dk/publication/gollector/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://hageman.dk/publication/gollector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging the Gap: Adapting a Security Education Platform to a New Audience</title>
+      <link>https://hageman.dk/publication/haaukins_2/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://hageman.dk/publication/haaukins_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can a TLS Certificate be Phishy?</title>
+      <link>https://hageman.dk/publication/phishy_cert/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://hageman.dk/publication/phishy_cert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Adversarial Phishing Detection</title>
+      <link>https://hageman.dk/publication/adversarial_phishing/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://hageman.dk/publication/adversarial_phishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haaukins: A Highly Accessible and Automated Virtualization Platform for Security Education</title>
+      <link>https://hageman.dk/publication/haaukins_1/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://hageman.dk/publication/haaukins_1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
